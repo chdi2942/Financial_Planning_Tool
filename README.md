@@ -125,6 +125,7 @@ According to a 2019 survey conducted by Charles Schwab, Americans believe that t
 # Requirements
 
 * Python 3.7
+* Jupyter Notebook
 * Pandas Library
 * Json, Requests
 * MCForecast Tools (py file in repository)
